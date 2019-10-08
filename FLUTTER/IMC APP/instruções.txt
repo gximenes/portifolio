@@ -1,0 +1,13 @@
+Esse é um acplicativo simples que tem como objetivo calcular o IMC dado peso e altura.
+
+Foram utilizados os seguintes widegts / comportamento:
+
+1º Utilização do estado stateful.
+2º Utilização do Icon
+3º Utilização de Column, TextFormField(com o decorator).
+4º RaisedButtom
+5º Validação através do GlobalForm.
+6º AppBar através do Scaford
+
+
+PS: A gravação está com um delay.

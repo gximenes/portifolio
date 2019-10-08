@@ -1,0 +1,8 @@
+Esse é um acplicativo simples que tem como objetivo somar ou diminuir pessoas através de um click do botão.
+
+Foram utilizados os seguintes widegts / comportamento:
+
+1º Utilização Column
+2º Utilização FlatButtom
+
+
